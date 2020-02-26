@@ -11,8 +11,5 @@ namespace CustumGenerics.Structures
         public Node<T> left { get; set; }
         public Node<T> right { get; set; }
         public T Value { get; set; }
-
-        
-
     }
 }
